@@ -23,3 +23,6 @@ This project is an interactive web application crafted using React and Redux, sp
 4. Open the application in your preferred web browser (typically accessible at http://localhost:3000).
 
 Feel free to explore and tailor the application to suit your unique task management requirements.
+
+![image](https://github.com/ak4721269/Login-Page-for-Kanban-board/assets/37411935/9b2d0a40-8600-4c19-aa2b-273497018e00)
+
